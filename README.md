@@ -449,7 +449,7 @@ POST http://localhost:8080/oauth/access_token
  
  - client_secret : 클라이언트 시크릿
  
- - grant_type : 'client_credentials' 를 사용합니다.
+ - grant_type : 'refresh_token' 를 사용합니다.
  
  - refresh_token : 리프레쉬 토큰
   
